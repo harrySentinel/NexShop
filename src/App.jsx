@@ -14,7 +14,7 @@ import './index.css';
 
 const App = () => {
   return (
-    <div classname = 'px-4 sm:px-[5vw] md:px-[7vw] lg:px-[9vw]'>
+    <div className = 'px-4 sm:px-[5vw] md:px-[7vw] lg:px-[9vw]'>
   
    <Navbar />
 

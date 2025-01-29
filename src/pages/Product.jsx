@@ -74,9 +74,18 @@ const Product = () => {
        <p>Cash on delivery is available on this product</p>
        <p>Easy return and exchange policy within 7 days</p>      
       </div>
-
       </div>
      </div>
+
+    {/* ---------- Descritpion & review Section ----------- */}
+    <div className='mt-20'>
+      <div className='flex'>
+        <b className='border px-5 py-3 text-sm'>Description</b>
+        <p className='border px-5 py-3 text-sm'>Reviews (122)</p>
+      </div>
+
+    </div>
+
     </div>
   ) : <div className='opacity-0'></div>
 }

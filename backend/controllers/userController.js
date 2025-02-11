@@ -13,7 +13,7 @@ const createToken = (id) => {
 // Route for user login
 const loginUser = async (req,res) => {
   try {
-
+ 
     const {email, password} = req.body;
 
     const user = await userModel.findOne({email});

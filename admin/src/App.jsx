@@ -7,7 +7,7 @@ const App = () => {
     <div className='bg-gray-50 min-h-screen'>
     <>
     <Navbar/>
-    <hr />
+    <hr className="border-t border-gray-300" />
     <div className='flex w-full'>
       <Sidebar />
     </div>

@@ -64,7 +64,8 @@ const ShopContextProvider = (props) => {
                     totalCount += cartItems[items][item];
                 }
               } catch (error){
-
+                console.log(error)
+                toast.error(error.message)
               }
             }
         }
@@ -103,7 +104,8 @@ const ShopContextProvider = (props) => {
                     }
 
                 } catch (error){
-
+                  console.log(error)
+                  toast.error(error.message)
                 }
             }
         }

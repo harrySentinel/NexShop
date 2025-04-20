@@ -116,7 +116,7 @@ const verifyStripe = async (req,res) => {
 
 // placing orders using Razorpay Method
 const placeOrderRazorpay = async (req,res) => {
-
+    res.json({ success: false, message: "Razorpay integration is currently not available." });
 } 
 
 // All Orders data for Admin Panel

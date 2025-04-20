@@ -23,6 +23,8 @@ const placeOrder = async (req,res) => {
 
         await userModel.findByIdAndUpdate(userId, {cartData:{}})
 
+        res.json({success:true, message:"Order placed successfully"})
+
     } catch (error) {
         console.log(error)
         res.json({success:false, message:error.message})
@@ -46,7 +48,17 @@ const allOrders = async (req,res) => {
 
 // User Order Data For Frontend
 const userOrders = async (req,res) => {
-    
+    try {
+
+        const {userId} = req.body 
+
+        const orders = await orderModel.find({userId})
+        res.json({success:true, orders})
+
+    } catch (error) {
+        console.log(error)
+        res.json({success:false, message:error.message})
+    }
 }
 
 // UPDATE ORDER Status from Admin Panel

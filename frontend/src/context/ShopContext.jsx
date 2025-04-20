@@ -156,7 +156,7 @@ useEffect(() => {
     const value = {
         products, currency, delivery_charge,
         search, setSearch, showSearch, setShowSearch,
-        cartItems,addToCart, getCartCount, updateQuantity,
+        cartItems,addToCart, setCartItems, getCartCount, updateQuantity,
         getCartAmount, navigate, backendUrl , setToken, token
     }
 

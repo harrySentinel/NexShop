@@ -26,7 +26,7 @@ const App = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false)
-    }, 1200) // show preloader for 1.2s (or less if you prefer)
+    }, 1200) 
 
     return () => clearTimeout(timer)
   }, [])

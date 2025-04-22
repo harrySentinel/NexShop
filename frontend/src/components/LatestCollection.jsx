@@ -18,7 +18,7 @@ const LatestCollection = () => {
         <div className='text-center py-8 text-3xl'>
           <Title text1={'LATEST'} text2={'COLLECTIONS'} />
         <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates suscipit asperiores vel
+        Discover the latest drops from NexShop — a perfect blend of style, comfort, and innovation. From street-ready fits to timeless essentials, our newest collection is designed to elevate your everyday look. Handpicked styles. Limited stock. Shop before it’s gone!
         </p>
         </div>
 

@@ -10,7 +10,7 @@ const Footer = () => {
      <div>
        <img src={assets.logo} className='mb-5 w-32' alt="" />
        <p className='w-full md:w-2/3 text-gray-600'>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, animi minus? Quasi 
+       NexShop is a full-stack eCommerce platform crafted with performance and precision in mind. Built using React, Node.js, Express, and MongoDB, it delivers a premium shopping experience with smooth checkout, secure payments, and user-friendly minimalistic design
        </p>
      </div>
 
@@ -28,14 +28,14 @@ const Footer = () => {
         <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
         <ul className='flex flex-col gap-1 text-gray-600'>
             <li>+1-212-456-7890</li>
-            <li>contact@foreveryou.com</li>
+            <li>contact@NexShop.com</li>
         </ul>
      </div>
     </div>
 
     <div>
         <hr />
-        <p className='py-5 text-base text-center'>Copyright 2024@ forever.com - All Right Reserved.</p>
+        <p className='py-5 text-base text-center'>Copyright 2025@ NexShop.com - All Right Reserved.</p>
     </div>
 
     </div>

@@ -14,7 +14,7 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
         <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-            <p>Hi, I'm Aditya Srivastava, a passionate Full Stack MERN Developer. This project is an e-commerce platform designed to provide a seamless shopping experience 
+            <p>Hi, I'm <b>Aditya Srivastava </b>, a passionate Full Stack MERN Developer. This project is an e-commerce platform designed to provide a seamless shopping experience 
               for fashion enthusiasts. Here, you can explore and purchase a variety of stylish and high-quality clothing items. With a user-friendly interface and secure payment 
               options, my goal is to make online shopping effortless and enjoyable. Thank you for visiting, and happy shopping!</p>
 

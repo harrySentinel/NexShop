@@ -9,7 +9,7 @@ const Preloader = () => {
         alt="NexShop Logo"
         className="w-32 h-auto max-h-24 animate-pulse object-contain"
       />
-      <p className="text-black font-medium tracking-wider animate-bounce">Loading NexShop 🛒...</p>
+      <p className="text-black font-medium tracking-wider animate-bounce">Loading 🛒...</p>
     </div>
   )
 }

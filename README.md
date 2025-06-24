@@ -1,1 +1,1 @@
-Adding detailed for nexshop project soon !!
+Adding detailed readme for nexshop project soon !!

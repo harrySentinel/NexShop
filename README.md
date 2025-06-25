@@ -32,7 +32,7 @@
 | Backend      | Node.js, Express.js                |
 | Database     | MongoDB Atlas                      |
 | Auth & Roles | JWT, Role-based Access Control     |
-| Deployment   | Vercel (Frontend & Admin), Render/Railway (Backend) |
+| Deployment   | Vercel (Frontend, Admin, Backend)  |
 
 ---
 

@@ -28,7 +28,7 @@
 
 | Layer         | Tools                             |
 |--------------|------------------------------------|
-| Frontend     | React 18, TypeScript, Tailwind CSS / Bootstrap |
+| Frontend     | React 18, Tailwind CSS             |
 | Backend      | Node.js, Express.js                |
 | Database     | MongoDB Atlas                      |
 | Auth & Roles | JWT, Role-based Access Control     |

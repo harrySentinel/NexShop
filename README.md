@@ -14,7 +14,7 @@
 - 🛒 Add to cart, update quantity, and checkout
 - 🔐 Secure authentication (login/register)
 - 🚚 Shipping form and order placement
-- 📦 View order history and statuses
+- 📦 View order statuses semlessly
 
 ### 🛠️ Admin Dashboard
 - ➕ Add/edit/delete products

@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 Deployment Architecture
+## ➣ Deployment Architecture
 
 - **Frontend (User):** [`nexshop-frontend.vercel.app`](https://nexshop-frontend.vercel.app)
 - **Admin Panel:** [`nexshop-admin.vercel.app`](https://nexshop-admin.vercel.app)
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧠 What I Learned
+## ➣ What I Learned
 
 - Built a real-world full-stack app from scratch
 - Designed and deployed separate frontend & admin portals
@@ -54,7 +54,7 @@
 
 ---
 
-## 📦 Run Locally
+## ➣ Run Locally
 
 ```bash
 # Clone the repo

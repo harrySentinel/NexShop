@@ -7,16 +7,16 @@
 
 ---
 
-## ✨ Features
+## ➣ Features
 
-### 🧑‍💻 Customer App
+### ➣ Customer App
 - 🛍️ Browse products with search functionality
 - 🛒 Add to cart, update quantity, and checkout
 - 🔐 Secure authentication (login/register)
 - 🚚 Shipping form and order placement
 - 📦 View order statuses semlessly
 
-### 🛠️ Admin Dashboard
+### ➣ Admin Dashboard
 - ➕ Add/edit/delete products
 - 📋 View and manage all placed orders
 - 👤 Manage registered users
@@ -24,7 +24,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ➣ Tech Stack
 
 | Layer         | Tools                             |
 |--------------|------------------------------------|

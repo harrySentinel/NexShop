@@ -54,7 +54,7 @@
 
 ---
 
-## ➣ Run Locally
+## ➣ Run it Locally
 
 ```bash
 # Clone the repo

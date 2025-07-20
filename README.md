@@ -40,7 +40,7 @@
 
 - **Frontend (User):** [`nexshop-frontend.vercel.app`](https://nexshop-frontend.vercel.app)
 - **Admin Panel:** [`nexshop-admin.vercel.app`](https://nexshop-admin.vercel.app)
-- **Backend:** Securely deployed and connected (URL not publicly exposed)
+- **Backend:** Securely deployed on vercel and connected (URL not publicly exposed)
 
 ---
 
